@@ -1,0 +1,561 @@
+Year,Month Number,Month,Utility,Owner,Units,Usage
+2015,10,Oct,Electricity,Commission,kWh,1642.1214
+2015,9,Sep,Electricity,Commission,kWh,1579.6725
+2019,8,Aug,Electricity,Commission,kWh,1563.94745
+2015,7,Jul,Electricity,Commission,kWh,1558.4561
+2017,9,Sep,Electricity,Commission,kWh,1551.23665
+2017,8,Aug,Electricity,Commission,kWh,1538.04413
+2013,8,Aug,Electricity,Commission,kWh,1537.6577
+2014,10,Oct,Electricity,Commission,kWh,1535.8398
+2015,8,Aug,Electricity,Commission,kWh,1525.6051
+2014,7,Jul,Electricity,Commission,kWh,1487.1822
+2016,3,Mar,Electricity,Commission,kWh,1484.6883
+2018,7,Jul,Electricity,Commission,kWh,1484.17362
+2014,9,Sep,Electricity,Commission,kWh,1483.6903
+2014,8,Aug,Electricity,Commission,kWh,1480.9519
+2016,8,Aug,Electricity,Commission,kWh,1478.4511
+2019,7,Jul,Electricity,Commission,kWh,1468.81951
+2018,10,Oct,Electricity,Commission,kWh,1464.49756
+2016,10,Oct,Electricity,Commission,kWh,1458.8262
+2016,5,May,Electricity,Commission,kWh,1455.51659
+2014,5,May,Electricity,Commission,kWh,1452.6902
+2013,5,May,Electricity,Commission,kWh,1452.5147
+2013,7,Jul,Electricity,Commission,kWh,1451.048474
+2019,6,Jun,Electricity,Commission,kWh,1448.6051699999998
+2013,9,Sep,Electricity,Commission,kWh,1447.4661
+2018,8,Aug,Electricity,Commission,kWh,1445.1264800000001
+2013,10,Oct,Electricity,Commission,kWh,1443.8314
+2017,7,Jul,Electricity,Commission,kWh,1441.7693
+2017,10,Oct,Electricity,Commission,kWh,1439.94366
+2014,12,Dec,Electricity,Commission,kWh,1431.2434
+2015,8,Aug,Electricity,Tenant,kWh,1424.8996
+2014,1,Jan,Electricity,Commission,kWh,1422.4438
+2014,3,Mar,Electricity,Commission,kWh,1421.7248
+2013,7,Jul,Electricity,Tenant,kWh,1421.320826
+2015,3,Mar,Electricity,Commission,kWh,1420.6768
+2016,6,Jun,Electricity,Commission,kWh,1411.46953
+2016,7,Jul,Electricity,Commission,kWh,1406.4108
+2016,9,Sep,Electricity,Commission,kWh,1402.8224
+2013,1,Jan,Electricity,Tenant,kWh,1400.2156
+2015,6,Jun,Electricity,Commission,kWh,1399.6653
+2013,6,Jun,Electricity,Commission,kWh,1398.3776
+2017,3,Mar,Electricity,Commission,kWh,1395.74014
+2014,8,Aug,Electricity,Tenant,kWh,1395.3716
+2013,10,Oct,Electricity,Tenant,kWh,1393.3761
+2017,5,May,Electricity,Commission,kWh,1389.51963
+2013,3,Mar,Electricity,Tenant,kWh,1389.4596
+2013,12,Dec,Electricity,Commission,kWh,1387.4497
+2015,5,May,Electricity,Commission,kWh,1384.325
+2014,11,Nov,Electricity,Commission,kWh,1382.7951
+2018,11,Nov,Electricity,Commission,kWh,1382.76171
+2018,12,Dec,Electricity,Commission,kWh,1380.82312
+2013,8,Aug,Electricity,Tenant,kWh,1380.6793
+2016,7,Jul,Electricity,Tenant,kWh,1380.1536
+2015,7,Jul,Electricity,Tenant,kWh,1376.9637
+2013,3,Mar,Electricity,Commission,kWh,1376.947
+2018,3,Mar,Electricity,Commission,kWh,1376.11193
+2016,12,Dec,Electricity,Commission,kWh,1373.74697
+2014,6,Jun,Electricity,Commission,kWh,1373.5745
+2014,7,Jul,Electricity,Tenant,kWh,1370.4396
+2015,12,Dec,Electricity,Commission,kWh,1369.7268
+2019,5,May,Electricity,Commission,kWh,1369.48265
+2018,1,Jan,Electricity,Commission,kWh,1369.21717
+2013,9,Sep,Electricity,Tenant,kWh,1368.3284
+2018,6,Jun,Electricity,Commission,kWh,1365.8319099999999
+2013,6,Jun,Electricity,Tenant,kWh,1364.8306
+2013,5,May,Electricity,Tenant,kWh,1364.6478
+2018,5,May,Electricity,Commission,kWh,1364.61573
+2014,10,Oct,Electricity,Tenant,kWh,1364.4163
+2013,11,Nov,Electricity,Commission,kWh,1363.2489
+2015,1,Jan,Electricity,Commission,kWh,1362.1017
+2016,1,Jan,Electricity,Commission,kWh,1361.3693
+2016,1,Jan,Electricity,Tenant,kWh,1359.5401
+2015,11,Nov,Electricity,Tenant,kWh,1359.3928
+2019,1,Jan,Electricity,Commission,kWh,1358.42731
+2017,11,Nov,Electricity,Commission,kWh,1355.85396
+2018,4,Apr,Electricity,Commission,kWh,1355.37435
+2013,4,Apr,Electricity,Tenant,kWh,1354.8377
+2016,8,Aug,Electricity,Tenant,kWh,1351.6803
+2016,4,Apr,Electricity,Commission,kWh,1351.2898400000001
+2016,10,Oct,Electricity,Tenant,kWh,1350.3024
+2018,9,Sep,Electricity,Commission,kWh,1350.03459
+2016,11,Nov,Electricity,Commission,kWh,1349.18171
+2013,4,Apr,Electricity,Commission,kWh,1347.7167
+2016,9,Sep,Electricity,Tenant,kWh,1345.3569
+2017,12,Dec,Electricity,Commission,kWh,1345.2456
+2015,5,May,Electricity,Tenant,kWh,1345.2023
+2014,1,Jan,Electricity,Tenant,kWh,1344.9294
+2014,4,Apr,Electricity,Tenant,kWh,1344.9294
+2014,3,Mar,Electricity,Tenant,kWh,1344.9294
+2014,2,Feb,Electricity,Tenant,kWh,1344.9294
+2019,3,Mar,Electricity,Commission,kWh,1343.6346800000001
+2017,6,Jun,Electricity,Commission,kWh,1341.23517
+2016,4,Apr,Electricity,Tenant,kWh,1331.965
+2013,11,Nov,Electricity,Tenant,kWh,1330.114
+2014,5,May,Electricity,Tenant,kWh,1329.7563
+2014,6,Jun,Electricity,Tenant,kWh,1329.7563
+2014,9,Sep,Electricity,Tenant,kWh,1328.6868
+2015,6,Jun,Electricity,Tenant,kWh,1327.8801
+2016,11,Nov,Electricity,Tenant,kWh,1327.7738
+2016,2,Feb,Electricity,Commission,kWh,1320.7312
+2015,4,Apr,Electricity,Commission,kWh,1320.6035
+2015,12,Dec,Electricity,Tenant,kWh,1319.4147
+2017,1,Jan,Electricity,Commission,kWh,1319.22465
+2013,12,Dec,Electricity,Tenant,kWh,1319.1552
+2019,4,Apr,Electricity,Commission,kWh,1316.4181
+2014,4,Apr,Electricity,Commission,kWh,1315.6039
+2016,5,May,Electricity,Tenant,kWh,1307.6243
+2017,10,Oct,Electricity,Tenant,kWh,1306.74
+2015,1,Jan,Electricity,Tenant,kWh,1305.6854
+2015,2,Feb,Electricity,Tenant,kWh,1305.6854
+2014,12,Dec,Electricity,Tenant,kWh,1305.6854
+2015,3,Mar,Electricity,Tenant,kWh,1305.6854
+2014,11,Nov,Electricity,Tenant,kWh,1305.4147
+2016,6,Jun,Electricity,Tenant,kWh,1299.5885
+2015,10,Oct,Electricity,Tenant,kWh,1299.3519
+2015,4,Apr,Electricity,Tenant,kWh,1295.0955
+2013,1,Jan,Electricity,Commission,kWh,1290.4353
+2017,4,Apr,Electricity,Commission,kWh,1285.4721
+2017,1,Jan,Electricity,Tenant,kWh,1280.097
+2016,12,Dec,Electricity,Tenant,kWh,1280.097
+2016,2,Feb,Electricity,Tenant,kWh,1278.7092
+2016,3,Mar,Electricity,Tenant,kWh,1278.7092
+2017,6,Jun,Electricity,Tenant,kWh,1264.3076800000001
+2015,11,Nov,Electricity,Commission,kWh,1264.1431
+2013,2,Feb,Electricity,Tenant,kWh,1263.1776
+2017,5,May,Electricity,Tenant,kWh,1262.6272800000002
+2015,9,Sep,Electricity,Tenant,kWh,1260.6205
+2017,7,Jul,Electricity,Tenant,kWh,1258.36138
+2019,7,Jul,Electricity,Tenant,kWh,1258.15884
+2017,12,Dec,Electricity,Tenant,kWh,1257.5671
+2017,4,Apr,Electricity,Tenant,kWh,1257.2789
+2017,8,Aug,Electricity,Tenant,kWh,1253.52518
+2019,8,Aug,Electricity,Tenant,kWh,1251.2092599999999
+2018,5,May,Electricity,Tenant,kWh,1248.8011
+2018,2,Feb,Electricity,Commission,kWh,1245.79487
+2018,9,Sep,Electricity,Tenant,kWh,1244.8558
+2019,3,Mar,Electricity,Tenant,kWh,1244.80691
+2018,8,Aug,Electricity,Tenant,kWh,1244.0369
+2019,5,May,Electricity,Tenant,kWh,1244.0095
+2019,1,Jan,Electricity,Tenant,kWh,1236.88206
+2018,1,Jan,Electricity,Tenant,kWh,1234.2686
+2018,10,Oct,Electricity,Tenant,kWh,1231.7048
+2017,3,Mar,Electricity,Tenant,kWh,1227.564
+2018,3,Mar,Electricity,Tenant,kWh,1225.64
+2017,9,Sep,Electricity,Tenant,kWh,1225.2318
+2018,12,Dec,Electricity,Tenant,kWh,1213.51323
+2019,4,Apr,Electricity,Tenant,kWh,1213.0339900000001
+2019,2,Feb,Electricity,Commission,kWh,1210.63573
+2017,11,Nov,Electricity,Tenant,kWh,1209.7819
+2018,6,Jun,Electricity,Tenant,kWh,1203.0752
+2018,7,Jul,Electricity,Tenant,kWh,1200.80554
+2018,11,Nov,Electricity,Tenant,kWh,1193.4021
+2019,6,Jun,Electricity,Tenant,kWh,1192.58455
+2017,2,Feb,Electricity,Commission,kWh,1182.4927300000002
+2018,4,Apr,Electricity,Tenant,kWh,1182.3488
+2013,2,Feb,Electricity,Commission,kWh,1181.6401
+2017,2,Feb,Electricity,Tenant,kWh,1175.3056
+2015,2,Feb,Electricity,Commission,kWh,1145.8825
+2014,2,Feb,Electricity,Commission,kWh,1130.7151
+2019,2,Feb,Electricity,Tenant,kWh,1117.47024
+2018,2,Feb,Electricity,Tenant,kWh,1115.1289
+2019,8,Aug,Passengers,Campus,PAX,575.0758
+2018,7,Jul,Passengers,Campus,PAX,570.0075
+2019,7,Jul,Passengers,Campus,PAX,562.016
+2018,8,Aug,Passengers,Campus,PAX,555.2579
+2017,8,Aug,Passengers,Campus,PAX,551.8744
+2017,7,Jul,Passengers,Campus,PAX,549.7819
+2019,6,Jun,Passengers,Campus,PAX,547.1861
+2018,6,Jun,Passengers,Campus,PAX,543.2268
+2016,7,Jul,Passengers,Campus,PAX,516.9044
+2017,6,Jun,Passengers,Campus,PAX,513.4738
+2016,8,Aug,Passengers,Campus,PAX,511.225
+2018,5,May,Passengers,Campus,PAX,502.7789
+2019,5,May,Passengers,Campus,PAX,501.3085
+2016,6,Jun,Passengers,Campus,PAX,492.232
+2017,10,Oct,Passengers,Campus,PAX,486.913
+2018,10,Oct,Passengers,Campus,PAX,486.7897
+2015,7,Jul,Passengers,Campus,PAX,480.2431
+2015,8,Aug,Passengers,Campus,PAX,479.7484
+2017,9,Sep,Passengers,Campus,PAX,473.6759
+2018,4,Apr,Passengers,Campus,PAX,471.453
+2017,5,May,Passengers,Campus,PAX,469.9822
+2019,4,Apr,Passengers,Campus,PAX,469.779
+2018,3,Mar,Passengers,Campus,PAX,467.4961
+2017,12,Dec,Passengers,Campus,PAX,466.0693
+2018,9,Sep,Passengers,Campus,PAX,465.5093
+2019,3,Mar,Passengers,Campus,PAX,460.2873
+2018,12,Dec,Passengers,Campus,PAX,458.0901
+2016,5,May,Passengers,Campus,PAX,457.4399
+2017,11,Nov,Passengers,Campus,PAX,457.3457
+2016,10,Oct,Passengers,Campus,PAX,457.2106
+2015,6,Jun,Passengers,Campus,PAX,455.964
+2016,9,Sep,Passengers,Campus,PAX,454.4856
+2014,8,Aug,Passengers,Campus,PAX,452.5926
+2018,11,Nov,Passengers,Campus,PAX,451.7529
+2014,7,Jul,Passengers,Campus,PAX,450.6218
+2017,4,Apr,Passengers,Campus,PAX,442.6358
+2015,10,Oct,Passengers,Campus,PAX,437.5077
+2015,5,May,Passengers,Campus,PAX,436.1622
+2013,8,Aug,Passengers,Campus,PAX,435.1101
+2016,12,Dec,Passengers,Campus,PAX,433.9805
+2017,3,Mar,Passengers,Campus,PAX,433.5634
+2014,6,Jun,Passengers,Campus,PAX,432.7219
+2016,11,Nov,Passengers,Campus,PAX,426.782
+2015,9,Sep,Passengers,Campus,PAX,420.1882
+2018,1,Jan,Passengers,Campus,PAX,419.1545
+2013,7,Jul,Passengers,Campus,PAX,418.1115
+2016,4,Apr,Passengers,Campus,PAX,417.2707
+2019,1,Jan,Passengers,Campus,PAX,416.1927
+2013,6,Jun,Passengers,Campus,PAX,415.5153
+2014,5,May,Passengers,Campus,PAX,415.1403
+2016,3,Mar,Passengers,Campus,PAX,413.803
+2015,12,Dec,Passengers,Campus,PAX,412.9462
+2014,10,Oct,Passengers,Campus,PAX,405.9884
+2015,4,Apr,Passengers,Campus,PAX,402.277
+2015,11,Nov,Passengers,Campus,PAX,401.4388
+2015,3,Mar,Passengers,Campus,PAX,400.2732
+2013,5,May,Passengers,Campus,PAX,393.4899
+2013,10,Oct,Passengers,Campus,PAX,392.6441
+2014,9,Sep,Passengers,Campus,PAX,391.9485
+2017,1,Jan,Passengers,Campus,PAX,389.3455
+2014,4,Apr,Passengers,Campus,PAX,388.7382
+2018,2,Feb,Passengers,Campus,PAX,388.2065
+2014,12,Dec,Passengers,Campus,PAX,385.6908
+2013,12,Dec,Passengers,Campus,PAX,381.4276
+2013,9,Sep,Passengers,Campus,PAX,378.5479
+2014,3,Mar,Passengers,Campus,PAX,377.1574
+2019,2,Feb,Passengers,Campus,PAX,375.5973
+2016,1,Jan,Passengers,Campus,PAX,374.9417
+2014,11,Nov,Passengers,Campus,PAX,362.9099
+2013,4,Apr,Passengers,Campus,PAX,360.9543
+2013,3,Mar,Passengers,Campus,PAX,359.9968
+2015,1,Jan,Passengers,Campus,PAX,355.1072
+2016,2,Feb,Passengers,Campus,PAX,354.3751
+2017,2,Feb,Passengers,Campus,PAX,348.148
+2013,11,Nov,Passengers,Campus,PAX,347.0482
+2014,1,Jan,Passengers,Campus,PAX,343.8136
+2015,2,Feb,Passengers,Campus,PAX,324.8534
+2013,1,Jan,Passengers,Campus,PAX,320.9356
+2014,2,Feb,Passengers,Campus,PAX,308.1846
+2013,2,Feb,Passengers,Campus,PAX,296.8951
+2013,1,Jan,Gas,Commission,Therms,36.3205
+2013,12,Dec,Gas,Commission,Therms,35.1762273
+2017,1,Jan,Gas,Commission,Therms,35.11321957
+2016,12,Dec,Gas,Commission,Therms,34.38211041
+2016,1,Jan,Gas,Commission,Therms,33.453508649999996
+2017,11,Nov,Gas,Commission,Therms,32.406048580000004
+2015,12,Dec,Gas,Commission,Therms,32.401823900000004
+2013,3,Mar,Gas,Commission,Therms,31.868
+2013,2,Feb,Gas,Commission,Therms,31.7493
+2016,3,Mar,Gas,Commission,Therms,30.25285623
+2013,11,Nov,Gas,Commission,Therms,30.137233409999997
+2014,1,Jan,Gas,Commission,Therms,29.73209756
+2019,2,Feb,Gas,Commission,Therms,29.67429963
+2015,5,May,Gas,Commission,Therms,29.37124703
+2019,1,Jan,Gas,Commission,Therms,29.20609192
+2015,1,Jan,Gas,Commission,Therms,28.99275289
+2017,3,Mar,Gas,Commission,Therms,28.9358255
+2018,3,Mar,Gas,Commission,Therms,28.31511149
+2015,4,Apr,Gas,Commission,Therms,28.3072
+2014,12,Dec,Gas,Commission,Therms,28.263892959999996
+2017,2,Feb,Gas,Commission,Therms,28.06484955
+2019,3,Mar,Gas,Commission,Therms,27.94711839
+2016,2,Feb,Gas,Commission,Therms,27.87398833
+2019,5,May,Gas,Commission,Therms,27.51004009
+2015,11,Nov,Gas,Commission,Therms,27.427114030000002
+2018,1,Jan,Gas,Commission,Therms,27.39915096
+2014,2,Feb,Gas,Commission,Therms,27.393515389999997
+2015,6,Jun,Gas,Commission,Therms,27.34891631
+2013,4,Apr,Gas,Commission,Therms,27.077636239999997
+2016,4,Apr,Gas,Commission,Therms,26.96824365
+2016,5,May,Gas,Commission,Therms,26.68225971
+2017,4,Apr,Gas,Commission,Therms,26.47856717
+2013,10,Oct,Gas,Commission,Therms,26.4782
+2014,3,Mar,Gas,Commission,Therms,26.3329
+2016,11,Nov,Gas,Commission,Therms,26.2707
+2013,5,May,Gas,Commission,Therms,26.16335766
+2017,5,May,Gas,Commission,Therms,26.10760458
+2018,2,Feb,Gas,Commission,Therms,25.86609013
+2017,12,Dec,Gas,Commission,Therms,25.84374728
+2018,12,Dec,Gas,Commission,Therms,25.76134961
+2018,11,Nov,Gas,Commission,Therms,25.23208721
+2015,3,Mar,Gas,Commission,Therms,25.1849
+2014,4,Apr,Gas,Commission,Therms,25.0218
+2015,2,Feb,Gas,Commission,Therms,24.5071962
+2018,4,Apr,Gas,Commission,Therms,24.4819523
+2016,7,Jul,Gas,Commission,Therms,24.23406551
+2019,4,Apr,Gas,Commission,Therms,24.19302382
+2016,10,Oct,Gas,Commission,Therms,24.066841020000002
+2016,8,Aug,Gas,Commission,Therms,23.97041175
+2013,7,Jul,Gas,Commission,Therms,23.820925
+2014,11,Nov,Gas,Commission,Therms,23.6044
+2018,5,May,Gas,Commission,Therms,23.58521329
+2017,7,Jul,Gas,Commission,Therms,23.344792509999998
+2016,9,Sep,Gas,Commission,Therms,23.319617800000003
+2017,6,Jun,Gas,Commission,Therms,23.2466001
+2013,8,Aug,Gas,Commission,Therms,23.1452008
+2014,5,May,Gas,Commission,Therms,23.04868113
+2016,6,Jun,Gas,Commission,Therms,22.97384431
+2013,6,Jun,Gas,Commission,Therms,22.53576126
+2018,6,Jun,Gas,Commission,Therms,22.4816451
+2015,10,Oct,Gas,Commission,Therms,22.1764383
+2018,10,Oct,Gas,Commission,Therms,21.63690704
+2017,10,Oct,Gas,Commission,Therms,21.56268261
+2018,9,Sep,Gas,Commission,Therms,21.26539716
+2014,6,Jun,Gas,Commission,Therms,21.23015408
+2017,8,Aug,Gas,Commission,Therms,20.867275
+2015,7,Jul,Gas,Commission,Therms,20.46107627
+2013,9,Sep,Gas,Commission,Therms,19.854288
+2018,8,Aug,Gas,Commission,Therms,19.74295787
+2014,10,Oct,Gas,Commission,Therms,19.46820458
+2014,8,Aug,Gas,Commission,Therms,19.383752859999998
+2015,9,Sep,Gas,Commission,Therms,19.11571776
+2014,7,Jul,Gas,Commission,Therms,19.06579062
+2018,7,Jul,Gas,Commission,Therms,18.963212
+2015,8,Aug,Gas,Commission,Therms,18.19785635
+2019,7,Jul,Gas,Commission,Therms,18.037672880000002
+2014,9,Sep,Gas,Commission,Therms,17.98613953
+2019,6,Jun,Gas,Commission,Therms,17.12979568
+2017,9,Sep,Gas,Commission,Therms,16.6549753
+2018,12,Dec,Gas,Tenant,Therms,9.819577124
+2017,12,Dec,Gas,Tenant,Therms,8.215638063
+2018,5,May,Gas,Tenant,Therms,7.485870987999999
+2018,4,Apr,Gas,Tenant,Therms,7.070252399
+2019,3,Mar,Gas,Tenant,Therms,7.035576399000001
+2018,8,Aug,Gas,Tenant,Therms,6.888266029
+2019,6,Jun,Gas,Tenant,Therms,6.518147186
+2019,2,Feb,Gas,Tenant,Therms,6.504809183
+2018,2,Feb,Gas,Tenant,Therms,6.467025051
+2018,7,Jul,Gas,Tenant,Therms,6.412776084
+2018,10,Oct,Gas,Tenant,Therms,6.253693476
+2018,3,Mar,Gas,Tenant,Therms,6.230388141000001
+2019,1,Jan,Gas,Tenant,Therms,6.154921408
+2017,11,Nov,Gas,Tenant,Therms,5.976049887
+2019,7,Jul,Gas,Tenant,Therms,5.8484776279999995
+2018,1,Jan,Gas,Tenant,Therms,5.766990155
+2018,9,Sep,Gas,Tenant,Therms,5.571726797
+2017,5,May,Gas,Tenant,Therms,5.175059008
+2013,11,Nov,Gas,Tenant,Therms,5.112943924
+2019,4,Apr,Gas,Tenant,Therms,5.066530019
+2013,2,Feb,Gas,Tenant,Therms,5.0573
+2017,1,Jan,Gas,Tenant,Therms,5.037981933
+2013,1,Jan,Gas,Tenant,Therms,4.9393
+2016,8,Aug,Gas,Tenant,Therms,4.888582507
+2018,11,Nov,Gas,Tenant,Therms,4.747080075
+2018,6,Jun,Gas,Tenant,Therms,4.734739821
+2013,5,May,Gas,Tenant,Therms,4.686652864
+2016,12,Dec,Gas,Tenant,Therms,4.675123673
+2013,12,Dec,Gas,Tenant,Therms,4.6275117660000005
+2015,12,Dec,Gas,Tenant,Therms,4.575684319
+2014,1,Jan,Gas,Tenant,Therms,4.5507671929999995
+2013,10,Oct,Gas,Tenant,Therms,4.4849
+2013,3,Mar,Gas,Tenant,Therms,4.4698
+2017,6,Jun,Gas,Tenant,Therms,4.4242412060000005
+2013,9,Sep,Gas,Tenant,Therms,4.398196851
+2015,4,Apr,Gas,Tenant,Therms,4.3856
+2015,1,Jan,Gas,Tenant,Therms,4.382267201
+2014,2,Feb,Gas,Tenant,Therms,4.3723278489999995
+2017,10,Oct,Gas,Tenant,Therms,4.351450574
+2013,6,Jun,Gas,Tenant,Therms,4.340737054000001
+2014,10,Oct,Gas,Tenant,Therms,4.309357328
+2013,4,Apr,Gas,Tenant,Therms,4.306410784
+2015,3,Mar,Gas,Tenant,Therms,4.2398
+2014,3,Mar,Gas,Tenant,Therms,4.1871
+2017,2,Feb,Gas,Tenant,Therms,4.177077043
+2014,11,Nov,Gas,Tenant,Therms,4.1633
+2014,7,Jul,Gas,Tenant,Therms,4.160481861
+2013,7,Jul,Gas,Tenant,Therms,4.138262
+2016,9,Sep,Gas,Tenant,Therms,4.134745001
+2014,5,May,Gas,Tenant,Therms,4.085083314999999
+2014,12,Dec,Gas,Tenant,Therms,4.078136044
+2016,3,Mar,Gas,Tenant,Therms,4.047958694
+2016,11,Nov,Gas,Tenant,Therms,4.0376
+2015,2,Feb,Gas,Tenant,Therms,3.998397431
+2014,4,Apr,Gas,Tenant,Therms,3.9428
+2016,1,Jan,Gas,Tenant,Therms,3.867757819
+2015,11,Nov,Gas,Tenant,Therms,3.864845837
+2016,4,Apr,Gas,Tenant,Therms,3.860972866
+2013,8,Aug,Gas,Tenant,Therms,3.849565014
+2014,6,Jun,Gas,Tenant,Therms,3.8261153749999997
+2017,9,Sep,Gas,Tenant,Therms,3.794460606
+2016,7,Jul,Gas,Tenant,Therms,3.7594952239999997
+2017,7,Jul,Gas,Tenant,Therms,3.7465810279999996
+2015,6,Jun,Gas,Tenant,Therms,3.741490796
+2014,9,Sep,Gas,Tenant,Therms,3.7393713989999995
+2019,5,May,Gas,Tenant,Therms,3.7178226000000003
+2017,8,Aug,Gas,Tenant,Therms,3.7029889320000002
+2015,5,May,Gas,Tenant,Therms,3.697058822
+2015,7,Jul,Gas,Tenant,Therms,3.6651398869999996
+2016,2,Feb,Gas,Tenant,Therms,3.660018297
+2014,8,Aug,Gas,Tenant,Therms,3.6460469620000002
+2015,10,Oct,Gas,Tenant,Therms,3.6071551299999998
+2015,8,Aug,Gas,Tenant,Therms,3.5252870759999997
+2016,10,Oct,Gas,Tenant,Therms,3.5182815970000005
+2016,6,Jun,Gas,Tenant,Therms,3.4665570829999997
+2015,9,Sep,Gas,Tenant,Therms,3.4456883
+2017,3,Mar,Gas,Tenant,Therms,3.382190605
+2016,5,May,Gas,Tenant,Therms,3.348848546
+2017,4,Apr,Gas,Tenant,Therms,2.08702762
+2019,8,Aug,Gas,Tenant,Therms,0.6160002394
+2019,8,Aug,Gas,Commission,Therms,0.5976435975000001
+2019,8,Aug,Water,Commission,Million Gallons,0.0027670764
+2017,7,Jul,Water,Commission,Million Gallons,0.0026629547999999998
+2017,8,Aug,Water,Commission,Million Gallons,0.002630342
+2019,7,Jul,Water,Commission,Million Gallons,0.002539086
+2017,9,Sep,Water,Commission,Million Gallons,0.0024473064
+2018,7,Jul,Water,Commission,Million Gallons,0.0024400508
+2014,7,Jul,Water,Commission,Million Gallons,0.0024289056
+2014,6,Jun,Water,Commission,Million Gallons,0.0024071388
+2019,6,Jun,Water,Commission,Million Gallons,0.0024013044
+2018,10,Oct,Water,Commission,Million Gallons,0.002363306
+2017,6,Jun,Water,Commission,Million Gallons,0.0022804276
+2018,8,Aug,Water,Commission,Million Gallons,0.0022670384
+2017,10,Oct,Water,Commission,Million Gallons,0.0022661408
+2018,6,Jun,Water,Commission,Million Gallons,0.0022288156
+2014,5,May,Water,Commission,Million Gallons,0.0022101904
+2017,11,Nov,Water,Commission,Million Gallons,0.0022060764
+2013,9,Sep,Water,Commission,Million Gallons,0.0020917072
+2016,8,Aug,Water,Commission,Million Gallons,0.0020767472
+2018,9,Sep,Water,Commission,Million Gallons,0.0020638068
+2017,5,May,Water,Commission,Million Gallons,0.0020593936
+2013,8,Aug,Water,Commission,Million Gallons,0.0020437604
+2019,5,May,Water,Commission,Million Gallons,0.002034186
+2018,5,May,Water,Commission,Million Gallons,0.0020288752
+2019,4,Apr,Water,Commission,Million Gallons,0.0019950656
+2017,3,Mar,Water,Commission,Million Gallons,0.001992298
+2016,6,Jun,Water,Commission,Million Gallons,0.0019900539999999998
+2015,9,Sep,Water,Commission,Million Gallons,0.0019643228
+2014,10,Oct,Water,Commission,Million Gallons,0.001953776
+2016,7,Jul,Water,Commission,Million Gallons,0.0019456976000000001
+2016,9,Sep,Water,Commission,Million Gallons,0.0019370956
+2019,1,Jan,Water,Commission,Million Gallons,0.0019359736000000001
+2015,7,Jul,Water,Commission,Million Gallons,0.0019306628
+2014,8,Aug,Water,Commission,Million Gallons,0.0019047072
+2018,4,Apr,Water,Commission,Million Gallons,0.0018989476
+2014,1,Jan,Water,Tenant,Million Gallons,0.0018936368000000002
+2013,6,Jun,Water,Commission,Million Gallons,0.0018872039999999997
+2018,1,Jan,Water,Commission,Million Gallons,0.0018755351999999999
+2018,11,Nov,Water,Commission,Million Gallons,0.0018616224
+2015,8,Aug,Water,Commission,Million Gallons,0.0018432963999999998
+2018,12,Dec,Water,Commission,Million Gallons,0.0018234744
+2018,3,Mar,Water,Commission,Million Gallons,0.0018105340000000001
+2014,3,Mar,Water,Tenant,Million Gallons,0.0018099356
+2015,10,Oct,Water,Tenant,Million Gallons,0.001806794
+2019,3,Mar,Water,Commission,Million Gallons,0.0018048492
+2016,4,Apr,Water,Commission,Million Gallons,0.0018029043999999998
+2016,11,Nov,Water,Commission,Million Gallons,0.0017877948
+2016,10,Oct,Water,Commission,Million Gallons,0.0017858499999999999
+2014,4,Apr,Water,Tenant,Million Gallons,0.001783606
+2014,2,Feb,Water,Tenant,Million Gallons,0.0017800156
+2014,10,Oct,Water,Tenant,Million Gallons,0.0017765747999999998
+2014,9,Sep,Water,Commission,Million Gallons,0.0017750788
+2014,9,Sep,Water,Tenant,Million Gallons,0.0017628864
+2015,10,Oct,Water,Commission,Million Gallons,0.0017590716
+2016,5,May,Water,Commission,Million Gallons,0.0017530128
+2013,12,Dec,Water,Commission,Million Gallons,0.0017501704
+2014,5,May,Water,Tenant,Million Gallons,0.0017497216
+2019,7,Jul,Water,Tenant,Million Gallons,0.0017347615999999998
+2017,2,Feb,Water,Commission,Million Gallons,0.0017318443999999999
+2015,6,Jun,Water,Commission,Million Gallons,0.0017317696000000002
+2014,6,Jun,Water,Tenant,Million Gallons,0.0017186048
+2013,8,Aug,Water,Tenant,Million Gallons,0.0016991568000000001
+2013,9,Sep,Water,Tenant,Million Gallons,0.0016959403999999999
+2014,7,Jul,Water,Tenant,Million Gallons,0.0016891336
+2017,12,Dec,Water,Commission,Million Gallons,0.001687862
+2019,2,Feb,Water,Commission,Million Gallons,0.0016864408
+2017,4,Apr,Water,Commission,Million Gallons,0.0016714808000000002
+2014,1,Jan,Water,Commission,Million Gallons,0.0016532296
+2013,4,Apr,Water,Tenant,Million Gallons,0.0016497888
+2018,10,Oct,Water,Tenant,Million Gallons,0.0016337067999999998
+2013,10,Oct,Water,Tenant,Million Gallons,0.0016313132
+2013,5,May,Water,Commission,Million Gallons,0.0016304904
+2017,1,Jan,Water,Commission,Million Gallons,0.0016301912
+2014,8,Aug,Water,Tenant,Million Gallons,0.0016166523999999998
+2014,4,Apr,Water,Commission,Million Gallons,0.0016144832000000002
+2015,3,Mar,Water,Tenant,Million Gallons,0.0016120896
+2016,12,Dec,Water,Commission,Million Gallons,0.0016042356
+2019,4,Apr,Water,Tenant,Million Gallons,0.001592492
+2013,10,Oct,Water,Commission,Million Gallons,0.0015912952
+2013,7,Jul,Water,Tenant,Million Gallons,0.0015856852
+2013,7,Jul,Water,Commission,Million Gallons,0.0015853859999999998
+2013,1,Jan,Water,Tenant,Million Gallons,0.0015834412
+2013,5,May,Water,Tenant,Million Gallons,0.0015809728
+2013,4,Apr,Water,Commission,Million Gallons,0.001580524
+2013,11,Nov,Water,Tenant,Million Gallons,0.0015722960000000002
+2013,6,Jun,Water,Tenant,Million Gallons,0.0015658632
+2013,3,Mar,Water,Tenant,Million Gallons,0.0015550172
+2013,11,Nov,Water,Commission,Million Gallons,0.0015526984
+2014,11,Nov,Water,Tenant,Million Gallons,0.0015509032
+2013,12,Dec,Water,Tenant,Million Gallons,0.0015280892
+2013,1,Jan,Water,Commission,Million Gallons,0.0015202351999999998
+2015,1,Jan,Water,Tenant,Million Gallons,0.0015190384
+2019,8,Aug,Water,Tenant,Million Gallons,0.001512082
+2014,12,Dec,Water,Tenant,Million Gallons,0.0014975708
+2015,6,Jun,Water,Tenant,Million Gallons,0.0014955512
+2019,5,May,Water,Tenant,Million Gallons,0.0014884452
+2018,2,Feb,Water,Commission,Million Gallons,0.0014876224
+2018,8,Aug,Water,Tenant,Million Gallons,0.0014827604
+2018,7,Jul,Water,Tenant,Million Gallons,0.0014819376
+2013,2,Feb,Water,Tenant,Million Gallons,0.0014716152
+2015,5,May,Water,Commission,Million Gallons,0.0014692216
+2015,4,Apr,Water,Tenant,Million Gallons,0.0014629384
+2015,12,Dec,Water,Commission,Million Gallons,0.0014627888
+2018,12,Dec,Water,Tenant,Million Gallons,0.0014620408
+2019,6,Jun,Water,Tenant,Million Gallons,0.0014609936
+2014,3,Mar,Water,Commission,Million Gallons,0.0014602456
+2015,4,Apr,Water,Commission,Million Gallons,0.0014571788
+2015,7,Jul,Water,Tenant,Million Gallons,0.0014553836
+2019,3,Mar,Water,Tenant,Million Gallons,0.0014520924
+2019,1,Jan,Water,Tenant,Million Gallons,0.0014520175999999999
+2014,11,Nov,Water,Commission,Million Gallons,0.0014465572
+2015,3,Mar,Water,Commission,Million Gallons,0.0014464076
+2015,2,Feb,Water,Tenant,Million Gallons,0.0014378804
+2016,8,Aug,Water,Tenant,Million Gallons,0.00143242
+2018,5,May,Water,Tenant,Million Gallons,0.0014280068
+2018,6,Jun,Water,Tenant,Million Gallons,0.0014259124
+2016,3,Mar,Water,Commission,Million Gallons,0.0014258376
+2017,5,May,Water,Tenant,Million Gallons,0.0014196292
+2015,8,Aug,Water,Tenant,Million Gallons,0.0014191803999999998
+2015,9,Sep,Water,Tenant,Million Gallons,0.001415964
+2016,2,Feb,Water,Commission,Million Gallons,0.0014136452000000001
+2013,2,Feb,Water,Commission,Million Gallons,0.0014118499999999999
+2017,7,Jul,Water,Tenant,Million Gallons,0.0014109524
+2018,1,Jan,Water,Tenant,Million Gallons,0.0014084092
+2017,10,Oct,Water,Tenant,Million Gallons,0.00140063
+2018,9,Sep,Water,Tenant,Million Gallons,0.0013952444
+2015,1,Jan,Water,Commission,Million Gallons,0.0013926264
+2015,11,Nov,Water,Commission,Million Gallons,0.0013832763999999998
+2019,2,Feb,Water,Tenant,Million Gallons,0.0013820047999999999
+2017,8,Aug,Water,Tenant,Million Gallons,0.0013788632
+2016,6,Jun,Water,Tenant,Million Gallons,0.0013754972000000001
+2014,12,Dec,Water,Commission,Million Gallons,0.0013698872
+2015,5,May,Water,Tenant,Million Gallons,0.0013687652
+2018,11,Nov,Water,Tenant,Million Gallons,0.0013478212
+2017,6,Jun,Water,Tenant,Million Gallons,0.0013474472
+2017,11,Nov,Water,Tenant,Million Gallons,0.0013461007999999999
+2018,4,Apr,Water,Tenant,Million Gallons,0.001343782
+2016,5,May,Water,Tenant,Million Gallons,0.0013339832
+2013,3,Mar,Water,Commission,Million Gallons,0.0013287472
+2017,9,Sep,Water,Tenant,Million Gallons,0.0013212672
+2015,12,Dec,Water,Tenant,Million Gallons,0.0013119172
+2016,10,Oct,Water,Tenant,Million Gallons,0.0012993508
+2018,3,Mar,Water,Tenant,Million Gallons,0.001298902
+2016,2,Feb,Water,Tenant,Million Gallons,0.0012942644
+2016,7,Jul,Water,Tenant,Million Gallons,0.0012766116
+2017,3,Mar,Water,Tenant,Million Gallons,0.0012760132
+2017,1,Jan,Water,Tenant,Million Gallons,0.0012689819999999999
+2016,1,Jan,Water,Commission,Million Gallons,0.0012683088
+2016,3,Mar,Water,Tenant,Million Gallons,0.001262624
+2014,2,Feb,Water,Commission,Million Gallons,0.0012404832
+2015,11,Nov,Water,Tenant,Million Gallons,0.0012366684
+2016,4,Apr,Water,Tenant,Million Gallons,0.0012325544
+2016,9,Sep,Water,Tenant,Million Gallons,0.0012142284
+2015,2,Feb,Water,Commission,Million Gallons,0.0012110868
+2017,12,Dec,Water,Tenant,Million Gallons,0.0011942568
+2016,11,Nov,Water,Tenant,Million Gallons,0.001192312
+2017,4,Apr,Water,Tenant,Million Gallons,0.0011809424
+2018,2,Feb,Water,Tenant,Million Gallons,0.0011654588000000001
+2016,12,Dec,Water,Tenant,Million Gallons,0.0011610455999999999
+2017,2,Feb,Water,Tenant,Million Gallons,0.0011176615999999998
+2016,1,Jan,Water,Tenant,Million Gallons,0.0010907336000000002
